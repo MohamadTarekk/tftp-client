@@ -1,4 +1,4 @@
-# tftp-client
+# TFTP Client
 
 A console application that uses trivial file transfer protocol TFTP in a client side to upload/download files to/from a specified client by the user.
 
